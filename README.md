@@ -1,2 +1,3 @@
 # pacman
- 
+
+guia de instalación
