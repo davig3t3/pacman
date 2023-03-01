@@ -35,3 +35,16 @@ Finally, a message thanking the player for playing is printed.
 
 This code provides a simple implementation of a game in Python 3.9. It demonstrates the use of input/output, loops, lists, and basic control structures in Python.
 
+***
+
+# Complejidad del algoritmo:
+
+![image](https://user-images.githubusercontent.com/38923604/222039786-bdfeb945-9de2-4f9a-9599-ec0c01375898.png)
+
+![image](https://user-images.githubusercontent.com/38923604/222039826-3214d386-2956-41fb-8768-0993ee7cf394.png)
+
+![image](https://user-images.githubusercontent.com/38923604/222039850-dcb16c27-a410-4de1-93e7-c54c86363e5b.png)
+
+![image](https://user-images.githubusercontent.com/38923604/222039884-9a407682-7d23-400f-8c8f-15ed1a7457a3.png)
+
+
